@@ -1,6 +1,8 @@
 # Clipboard Summarizer 
 (**project_pyperclip**)
 
+[Read Blog](https://medium.com/@kingofkingsalok/boost-productivity-with-clipboard-summarizer-a-smart-text-summarization-tool-3aed09c0794c)
+
 Clipboard Summarizer is a desktop application that monitors clipboard content and generates summaries of the text copied to the clipboard. It uses state-of-the-art NLP models, specifically T5 (Text-to-Text Transfer Transformer), for text summarization, and provides a user-friendly experience with a system tray icon, allowing users to start, pause, and exit monitoring with ease.
 
 ### Features:
